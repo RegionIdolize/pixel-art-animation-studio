@@ -1,0 +1,1 @@
+"""Pure helper functions. No side effects, unit-tested hard."""
