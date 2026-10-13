@@ -1,0 +1,1 @@
+"""Core host package. Must stay importable without Qt."""
